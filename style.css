@@ -1,0 +1,195 @@
+body {
+    background-color:#cccccc;
+    margin-left: 0px;
+    margin-right:5px;
+}
+
+h1 {
+    text-align:center;
+    color:darkslategray;
+    margin-top:50px;
+    font-family: "Arial";
+    
+}
+
+p {
+    text-align: center;
+    font-family:"Arial", "Helvatica", "Sans-serif";
+    margin-top: -10px;
+    width:500px;
+    margin-left:150px;
+         
+}
+
+.naam {
+    font-size: 35px;
+    font-family:fantasy;
+    margin-top:-140px;
+    margin-left:80px;
+    color:darkgreen;
+}
+/*<---Start_Headers--->*/
+.header {
+    background-color:#f2f2f2;
+    height:200px;
+    margin-top:-50px;
+    margin-left: -7px;
+    margin-right:0px;
+    margin-bottom:70px;
+}
+
+.about_us {
+    background-color:darkgrey;
+    height:320px;
+    margin-top:50px;
+    margin-left: 20px;
+    margin-right:600px;
+    margin-bottom:30px;
+    
+}
+
+.about_us_title {
+    text-align: center;
+    margin: 30px 0px 40px 0px;
+    padding:20px 10px 10px 10px;
+    
+}
+
+.about_us_text {
+    color:darkslategray;
+    margin-left:100px;
+    text-align: center;
+    font-family: cursive;
+    
+}
+
+.latest_project {
+    background-color:darkgrey;
+    height:700px;
+    margin-top:100px;
+    margin-left: 20px;
+    margin-right:600px;
+    margin-bottom:100px;
+}
+
+.latest_project_text {
+    color:slategrey;
+    margin-top:30px;
+    margin-left:100px;
+    margin-right:100px;
+    margin-bottom:30px;
+    font-family:cursive;
+}
+
+.latest_project_title {
+    padding: 20px 10px 10px 20px;
+    margin-bottom: 50px;
+    margin-top:50px;
+}
+
+.top_members {
+    background-color:darkgrey;
+    height:400px;
+    width:300px;
+    margin-top:100px;
+    margin-left: 20px;
+    margin-right:600px;
+    margin-bottom:100px;
+}
+    /*<---End_Headers--->*/
+
+    /*---Start_Footer---?*/
+
+footer {
+    background-color:#f2f2f2;
+    padding: 30px 0px 50px 0px;
+    text-align: center;
+    font-size:15px;
+}
+
+.footer_nav {
+    margin-left:-980px;
+    margin-bottom:-100px;
+    
+}
+
+.p_footer {
+    margin-left:900px;
+    margin-bottom:-20px;
+    font-size:17px;
+}   
+
+
+img {
+    width:140px;
+    margin-left:60px;
+    margin-top:-30px;
+}
+
+.img_latest_project {
+    width:500px;
+    margin: 20px 10px 10px 105px;
+}
+
+button {
+    font: 14px "Trebuchet", sans-serif;
+}
+
+.button {
+    padding:8px 16px;
+    display:inline-block;
+    text-decoration: none;
+    border-radius:3px;
+    background-color: #ccc; /* Temp*/
+    margin-top:15px;
+    margin-left:250px;
+}
+
+.button2 {
+    padding:8px 16px;
+    display:inline-block;
+    text-decoration: none;
+    border-radius:3px;
+    background-color: #ccc; /* Temp*/
+    margin-left:30px;
+}
+
+.button3 {
+    padding:8px 16px;
+    display:inline-block;
+    text-decoration: none;
+    border-radius:3px;
+    background-color: #ccc; /* Temp*/
+    margin-left:30px;
+}
+
+.button4 {
+    padding:8px 16px;
+    display:inline-block;
+    text-decoration: none;
+    border-radius:3px;
+    background-color: #ccc; /* Temp*/
+    margin-left:30px;
+}
+
+.button5 {
+    padding:8px 16px;
+    display:inline-block;
+    text-decoration: none;
+    border-radius:3px;
+    background-color: #ccc; /* Temp*/
+    margin-left:30px;
+}
+
+.button-primary{
+    background:slategray;
+    color: #fff;
+}
+
+.button-primary:hover {
+    background:#9a9a98;
+}
+
+input {
+    color:blue;
+}
