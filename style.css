@@ -1,7 +1,15 @@
 body {
     background-color:#cccccc;
-    margin-left: 0px;
-    margin-right:5px;
+    width: auto;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.titan_hacker {
+    font-size: 50px;
+    font-family: serif;
 }
 
 h1 {
@@ -10,6 +18,16 @@ h1 {
     margin-top:50px;
     font-family: "Arial";
     
+}
+
+hr {
+    width: 103%;
+    margin-left:-10px;
+}
+
+fieldset {
+    width: 50%;
+    margin-left: 75px;
 }
 
 p {
@@ -23,59 +41,104 @@ p {
 
 .naam {
     font-size: 35px;
-    font-family:fantasy;
+    font-family:monospace;
     margin-top:-140px;
-    margin-left:80px;
-    color:darkgreen;
+    margin-left:180px;
+    color:blue;
 }
 /*<---Start_Headers--->*/
 .header {
     background-color:#f2f2f2;
-    height:200px;
-    margin-top:-50px;
-    margin-left: -7px;
-    margin-right:0px;
+    height:230px;
+    margin-top:60px;
+    margin-left: -1px;
+    margin-right:-10px;
     margin-bottom:70px;
+    position:relative;
 }
 
+.header_nav {
+    margin-left: 300px;
+}
+
+.header_nav_2 {
+    background: rgba(0,0,0,0.7);
+    height:80px;
+    width: 100%;
+    top: 0;
+    margin-top: -20px;
+    position:fixed;
+}
+
+
+.header_ul {
+    width: 1000px;
+    margin: 0px auto;
+    display: block;
+    padding: 0px;
+}
+
+li {
+    list-style-type: none;
+}
+
+li a {
+    width: 200px;
+    height: 60px;
+    display: inline-block;
+    float: left;
+    color: white;
+    line-height: 60px;
+    text-decoration: none;
+    text-align: center;
+}
+
+li a:hover {
+    background:#737373;
+}
+
+
 .about_us {
+    width: auto;
     background-color:darkgrey;
-    height:320px;
+    height:370px;
     margin-top:50px;
-    margin-left: 20px;
+    margin-left: 75px;
     margin-right:600px;
     margin-bottom:30px;
-    
+    border: 1px solid black;
 }
 
 .about_us_title {
     text-align: center;
-    margin: 30px 0px 40px 0px;
+    margin: 10px 0px 40px 0px;
     padding:20px 10px 10px 10px;
     
 }
 
 .about_us_text {
+    margin: 10px;
     color:darkslategray;
-    margin-left:100px;
-    text-align: center;
+    margin-left:75px;
     font-family: cursive;
+    margin: auto;
     
 }
 
 .latest_project {
     background-color:darkgrey;
-    height:700px;
-    margin-top:100px;
-    margin-left: 20px;
+    height:680px;
+    margin-top:75px;
+    margin-left: 75px;
     margin-right:600px;
     margin-bottom:100px;
+    border: 1px solid black;
 }
 
 .latest_project_text {
-    color:slategrey;
+    color:darkslategray;
     margin-top:30px;
-    margin-left:100px;
+    margin-left:90px;
     margin-right:100px;
     margin-bottom:30px;
     font-family:cursive;
@@ -84,41 +147,95 @@ p {
 .latest_project_title {
     padding: 20px 10px 10px 20px;
     margin-bottom: 50px;
-    margin-top:50px;
+    margin-top:20px;
 }
 
 .top_members {
     background-color:darkgrey;
     height:400px;
     width:300px;
-    margin-top:100px;
-    margin-left: 20px;
-    margin-right:600px;
+    margin-top: -403px;
+    margin-right: 100px;
+    float: right;
+    border: 1px solid black;
+}
+
+.top_members_title {
+    margin-top: 30px;
+}
+
+.top_members_join {
+    background-color:darkgrey;
+    height:400px;   
+    width:300px;
+    margin-top:-100px;
+    margin-right: 100px;
+    float: right;
+    border: 1px solid black;
+}
+
+.rules_join {
+    background-color:darkgrey;
+    height:480x;
+    width:300px;
+    float:right;
+    margin-top:10px;
+    margin-right: 100px;
+    border: 1px solid black;
+}
+
+.rules {
+    background-color:darkgrey;
+    height:480x;
+    width:300px;
+    margin-top:75px;
+    margin-right: 100px;
+    float: right;
+    border: 1px solid black;  
+}
+
+.rules_title {
+    margin-top: 30px;
+}
+
+.form_join {
+    color: darkslategray;
+    font-family: cursive;
+}
+.youtube {
+    background-color:darkgrey;
+    height:450px;
+    margin-top:150px;
     margin-bottom:100px;
+    border: 1px solid black;
+}
+
+.youtube_text {
+    margin-top: 20px;
+    margin-left:80px;
+    font-family: cursive;
+    color:darkslategray;
+}
+
+.youtube_banner {
+    width: 550px;
+    margin-top: 10px;
+}
+
+li {
+    margin-top: 20px;
+    color: blue;
+    font-family: cursive;
+}
+
+.collin {
+    color: orangered;
+}
+
+.morrison {
+    color:darkgreen;
 }
     /*<---End_Headers--->*/
-
-    /*---Start_Footer---?*/
-
-footer {
-    background-color:#f2f2f2;
-    padding: 30px 0px 50px 0px;
-    text-align: center;
-    font-size:15px;
-}
-
-.footer_nav {
-    margin-left:-980px;
-    margin-bottom:-100px;
-    
-}
-
-.p_footer {
-    margin-left:900px;
-    margin-bottom:-20px;
-    font-size:17px;
-}   
-
 
 img {
     width:140px;
@@ -127,8 +244,15 @@ img {
 }
 
 .img_latest_project {
+    height: 300px;
     width:500px;
-    margin: 20px 10px 10px 105px;
+    margin: 20px 10px 10px 90px;
+}
+
+.img_join {
+    float:right;
+    width: 300px;
+    padding: 30px 70px 10px 10px;
 }
 
 button {
@@ -192,4 +316,93 @@ button {
 
 input {
     color:blue;
+}
+
+/*-----icons----*/
+
+.fa-youtube {
+    font-size: 50px;
+    color:red;
+    text-decoration: none;
+}
+
+.fa-snapchat {
+    font-size: 50px;
+    color:000;
+    text-decoration: none;
+    margin-left:30px;
+}
+
+.fa-instagram {
+    font-size: 50px;
+    color: hotpink;
+    text-decoration: none;
+    margin-left: 30px;
+}
+
+.fa-github {
+    font-size: 50px;
+    color:black;
+    text-decoration: none;
+    margin-left: 30px;
+}
+
+video {
+    padding: 50px 10px 10px 60px
+}
+
+.videos_youtube {
+    background-color:darkgrey;
+    height:500px;
+    width: 1000px;
+    margin-top:50px;
+    margin-left: 175px;
+    margin-right:600px;
+    margin-bottom:30px;
+    border: 1px solid black;
+}
+
+.images {
+    background-color:darkgrey;
+    height:880px;
+    width: 1000px;
+    margin-top:75px;
+    margin-left: 175px;
+    margin-right:600px;
+    margin-bottom:30px;
+    border: 1px solid black;
+}
+
+.gallery {
+    background-color:darkgrey;
+    height:880px;
+    width: 1000px;
+    padding:10px;
+    margin-top:75px;
+    margin-left: 175px;
+    margin-right:600px;
+    margin-bottom:30px;
+    border: 1px solid black;
+}
+
+.mygallery1 {
+    width: 150px;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+.mygallery2 {
+    width: 400xp;
+    height: 150px;
+}
+
+.mygallery3 {
+    width: 475px;
+    height: 150px;
+}
+
+.mygallery4 {
+    width: 200px;
+    padding-top: 100px;
+    margin-left: 50px;
 }
