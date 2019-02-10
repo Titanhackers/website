@@ -1,0 +1,138 @@
+Skip to content
+Your account has been flagged.
+Because of that, your profile is hidden from the public. If you believe this is a mistake, contact support to have your account status reviewed.
+
+hacker adruino
+Repositories0
+Code45
+Commits1
+Issues2
+Marketplace0
+Topics0
+Wikis0
+Users0
+Language
+
+Sort
+
+45 code results
+@Titanhackers
+Titanhackers/website – join.html
+Showing the top two matches
+Last indexed on Jul 7, 2018
+HTML
+<!DOCTYPE html>
+<html>
+   <head>
+       <title>Join Page Titan Hacker</title>
+       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+       <header class="header">
+           <h1 class="titan_hacker">Titan Hackers</h1>
+           <img src="assets/images/profile.png" alt="profile">
+@iteratec
+iteratec/mate-matrix – README.md
+Showing the top three matches
+Last indexed on Aug 31, 2018
+Markdown
+This Project is a Freiday Project initiated for the [HackerSchool](http://hacker-school.de/) event in April 2017.
+
+![A Single Case MateMatrix in Action](img/matematrix.gif)
+We use the LedControl Library and provide a facade for it. The library is available via [Github](https://github.com/wayoda/LedControl). Documentation can be found on [the libraries Adruino Playgroud page](http://playground.arduino.cc/Main/LedControl)
+@soldermonkey23
+soldermonkey23/soldermonkey23.github.io – soldermonkey.sublime-workspace
+Showing the top two matches
+Last indexed 23 days ago
+JSON with Comments
+		"/Users/brian/Documents/GitHub/brianglen.github.io/_sass/jekyll-theme-hacker.scss",
+		"/Users/brian/Documents/GitHub/brianglen.github.io/index.md",
+		"/Users/brian/Downloads/DipTrace-Adruino-Library-beta/README.md",
+		"/Users/brian/Documents/test.cpp",
+		"/Users/brian/Downloads/IdahoTrailCavern-master/IdahoTrail.m",
+@drgnz
+drgnz/DNHWiki – faq.md
+Showing the top two matches
+Last indexed on Jul 5, 2018
+Markdown
+Big Data, Phân tích dữ liệu, ... | Matlab, Python, R, Julia
+Trí tuệ nhân tạo | C++, Python, Java
+Robot, Vi mạch, Adruino | C, C++
+Viết script tự động | Mọi ngôn ngữ. <br />Nhưng ưu tiên: Python, AutoIT3, Bash, Ruby, Powershell, Javascript, ...
+Hack | Hacker knows everything ;)
+
+Nếu vận chưa xác định được mình thích gì và ngôn ngữ nào. Các bạn có thể dùng những Website sau để làm một bài Quiz nhỏ nhé:
+@neihousaigaai
+neihousaigaai/DNHWiki – faq.md
+Showing the top two matches
+Last indexed on Jul 3, 2018
+Markdown
+Big Data, Phân tích dữ liệu, ... | Matlab, Python, R, Julia
+Trí tuệ nhân tạo | C++, Python, Java
+Robot, Vi mạch, Adruino | C, C++
+Viết script tự động | Mọi ngôn ngữ. <br />Nhưng ưu tiên: Python, AutoIT3, Bash, Ruby, Powershell, Javascript, ...
+Hack | Hacker knows everything ;)
+
+Nếu vận chưa xác định được mình thích gì và ngôn ngữ nào. Các bạn có thể dùng những Website sau để làm một bài Quiz nhỏ nhé:
+@throughthegate
+throughthegate/RandomCHITitles – matrix.php
+Showing the top two matches
+Last indexed on Aug 11, 2018
+PHP
+$adj = array("Developer", "Community", "Designer", "Machine Learning", "Visual", "User", "International", "Critical Inquiry of", "Student", "Parental", "Cross-Platform", "Data", "Open Source", "Situated", "Interactive", "Representational", "Transnational", "Group", "New Forms of", "Social", "User-Defined", "Urban", "Rural", "Fictional", "Youth", "Facebook's", "Twitter's", "Apple's", "Microsoft's", "Google's", "Snapchat's", "Undesirable", "Hidden", "Outrageous", "Busy", "Oceanic", "Temporary", "Unseen", "Jubilant", "Electric", "Electronic", "Digital", "Analog", "Emotional", "Educational", "Participatory", "Contextual Inquiry of", "Context Aware", "Public", "Private", "Activist", "3D", "2D", "Real-Time", "Hacker", "Peer", "Lobster", "Lego", "Wooden", "Large", "Small", "Alien", "Nomadic", "Temporary", "Emerging", "Value Sensitive", "Legacy", "Civic", "Fictional", "CHI Authors'", "Dystopian", "Networked", "New", "Touchscreen", "Experimental", "Multi-Faceted", "Automated", "Automatic", "Computer", "Cyber", "Tangible", "Physical", "Novel", "Cross-Cultural", "Family", "Geolocated", "Geotagged", "Low Cost", "Non-Persistent", "Olfactory", "Material", "Maker", "Interactive", "Permissive", "Persistent", "Low-Fidelity", "High-Fidelity", "Peripheral", "Critical", "Sepculative", "Socioeconomic", "Hybrid", "Gamified", "Sensor-Based", "Emotional", "Proximity-Aware", "3D Printed", "Sustainble", "Human-Centric", "Virtual", "Perceptual", "Low-Cost", "Specific", "Collaborative", "Everyday", "Computing-Driven");
+$context = array("Security Systems", "Privacy Practices", "Collective Practice", "Machine Aesthetics", "the Real World", "Crowdsourcing", "Everyday Life", "Computer Users", "Smartphone Owners", "Video-Mediated Collaboration", "Client-Side Participation", "Critical Design", "MultiTouch Interfaces", "Tabletop Interaction", "Medical Devices", "Citizen Science", "Data Analysis", "Social Media", "Online Risk", "Email", "Work-Life Balance", "Boundary Practices", "Voice Interfaces", "Wearables", "the Body", "Public Displays", "Games", "Older Adults", "Gender Stereotypes", "the Workplace", "Online Communities", "Computer Mediated Communication", "Online Dating", "Cyberbullying", "Language", "Social Writing", "Online Education", "Digital Fabrication", "3D Printing", "Bio-Sensors", "Robotics", "Industrial Settings", "the HCI Community", "the CHI Community", "the Design Community", "Ubiquitous Computing", "Design Practice", "Studies in the Field", "Lab Studies", "New Design Spaces", "Alternative Designs", "Visualizations", "Urban Spaces", "Rural Spaces", "the Home", "the Car", "the Kitchen", "Public Spaces", "Private Spaces", "Food", "Outer Space", "Star Trek", "Public Transport", "Airplanes", "Infrastructure Repair", "Destruction", "Coffee", "Star Wars", "Clippy", "Museums", "Hyperspace", "Sandbox Environments", "Fondue", "University Classes", "Fashion", "Sports", "Photoshop", "Collaboration", "Wearable Computing", "Wall Interfaces", "Design Fictions", "Digital Narratives", "Virtual Environments", "Digital Games", "News Feeds", "Wikipedia", "Facial Recognition", "Music Performance", "Developing Countries", "Drawing", "Walking", "Running", "System Performance", "Tablets", "Privacy Nudging", "Smart Homes", "History", "Time Travel", "Video Work", "Remote Collaboration", "Mixed-Reality Games", "Microwork", "Mechanical Turk", "Gradudate Student Labs", "Libraries", "Boats", "Public Policy", "Fair Use", "Privacy Concerns", "Broadway Musicals", "Amazon Mechanical Turk", "Food", "Infrastructures", "Tech Entrepreneurs", "ICTD", "Development", "Values in Design", "Research through Design", "Future Identity Technologies", "Field Sites", "the Field", "Traffic Systems", "Facebook", "Design Fiction", "Multi-Year Timespans", "Screens", "Smartphones", "Future Actions", "Policymaking", "Problem-Solving", "Natural Language", "Machine Learning", "Sports Viewing", "Social Media", "Online Sharing Behaviors", "Mobile Sharing Behaviours", "Unsupervised Learning", "Learning", "Security", "3D Printing", "Classrooms", "Ridesharing", "Parenting", "Social Movements", "Smartphone Applications", "Deception", "Data", "Discursive Practice", "Transportation", "Behaviour Change", "Rock Climbing", "Healthcare", "User Interactions", "End User License Agreements", "EEG", "Biosensing", "Lighting", "Photography", "Adruino", "Hackathons", "Reading", "System Administrators", "Experts", "Android", "Autonomous Vehicles", "Autonomous Agents", "Voice Interfaces", "IoT Applications", "Textiles", "Touchscreens", "Smart Homes", "Smartphones", "Smartwatches", "WeChat", "Programming Languages", "Maps", "Health Care", "Smart Home", "Voice User Interfaces", "Classrooms", "the Classroom", "Parenting", "Augmented Reality", "Searchers", "Comics", "Robots", "Fashion", "3D Printing", "Hackerspaces", "Self-Reporting", "Slowness", "Personal Informatics", "Existing Code", "Passwortd Strength", "Multidimensional Data", "Computer Literacy", "Algorithmic Transparency", "Transparency", "Design Materials", "Interface Prototypes", "Organizational Structure", "Video Segmentation", "Emoji", "Self-Reflection", "Wellness", "Art Practice", "HCI", "Animation", "Social Context", "Randomized Experiments");
+@bglen
+bglen/bglen.github.io – bglen.sublime-workspace
+Showing the top two matches
+Last indexed 12 days ago
+JSON with Comments
+		"/Users/brian/Documents/GitHub/brianglen.github.io/_sass/jekyll-theme-hacker.scss",
+		"/Users/brian/Documents/GitHub/brianglen.github.io/docs/CODE_OF_CONDUCT.md",
+		"/Users/brian/Downloads/DipTrace-Adruino-Library-beta/README.md",
+		"/Users/brian/Documents/test.cpp",
+		"/Users/brian/Downloads/IdahoTrailCavern-master/IdahoTrail.m",
+@braintreedev
+braintreedev/2015.battlehack.org – index.html
+Showing the top match
+Last indexed on Jul 2, 2018
+HTML
+  <script src="/assets/2015-404e86114c4cee4a4797e8f08115d343.js" data-turbolinks-track="true"></script>
+
+  <title>BattleHack New York City - Are you the ultimate hacker for good?</title>
+
+  <meta property="og:title" content="BattleHack New York City - Are you the ultimate hacker for good?" />
+  <meta property="og:type" content="website" />
+@cbetta
+cbetta/2015.battlehack.org – index.html
+Showing the top match
+Last indexed on Nov 17, 2018
+HTML
+  <script src="/assets/2015-404e86114c4cee4a4797e8f08115d343.js" data-turbolinks-track="true"></script>
+
+  <title>BattleHack New York City - Are you the ultimate hacker for good?</title>
+
+  <meta property="og:title" content="BattleHack New York City - Are you the ultimate hacker for good?" />
+  <meta property="og:type" content="website" />
+@driewe
+driewe/driewe.github.io – infra-red-remote-controller-shield.html
+Showing the top two matches
+Last indexed on Jul 5, 2018
+HTML
+<head>
+    <title>Infra Red Remote Controller Shield - HackerSpaceTech</title>
+    <!-- Using the latest rendering mode for IE -->
+        <meta name="description" content="Made use of The Forge makerspace at North Branch library to construct my first Arduino Shield. This shield adds 7 Status LEDs, an Infra Red LED, an Infra Red Receiver and a piezo buzzer. Signal processing is handled by a great Arduino library written by Ken Shirriff and allows you ..." />
+
+        <meta property="og:site_name" content="HackerSpaceTech" />
+        <meta property="og:type" content="article"/>
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Press h to open a hovercard with more details.
